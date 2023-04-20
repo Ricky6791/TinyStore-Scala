@@ -1,0 +1,46 @@
+2022.12.01 19:53:19 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/ravila/Principles/TinyStore/.metals/lsp.trace.json or /Users/ravila/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.12.01 19:53:19 INFO  logging to file /Users/ravila/Principles/TinyStore/.metals/metals.log
+2022.12.01 19:53:19 INFO  Started: Metals version 0.11.9 in workspace '/Users/ravila/Principles/TinyStore' for client Visual Studio Code 1.73.1.
+2022.12.01 19:53:21 INFO  time: initialize in 2.02s
+2022.12.01 19:53:22 WARN  Build server is not auto-connectable.
+2022.12.01 19:53:22 WARN  no build tool detected in workspace '/Users/ravila/Principles/TinyStore'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.12.01 19:53:43 WARN  no build tool detected in workspace '/Users/ravila/Principles/TinyStore'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.12.01 19:53:53 WARN  no build tool detected in workspace '/Users/ravila/Principles/TinyStore'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.12.01 19:54:07 WARN  no build target for: /Users/ravila/Principles/TinyStore/music.scala
+2022.12.01 19:54:11 INFO  no build target found for /Users/ravila/Principles/TinyStore/music.scala. Using presentation compiler with project's scala-library version: 3.2.0
+Dec 01, 2022 7:54:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+Dec 01, 2022 7:54:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+2022.12.01 19:54:12 INFO  time: code lens generation in 1.23s
+2022.12.01 19:54:12 INFO  time: code lens generation in 1.25s
+2022.12.01 19:54:12 WARN  no build target for: /Users/ravila/Principles/TinyStore/name.scala
+2022.12.01 19:54:14 WARN  no build target for: /Users/ravila/Principles/TinyStore/product.scala
+2022.12.01 19:54:22 WARN  no build target for: /Users/ravila/Principles/TinyStore/product.scala
+2022.12.01 19:54:27 WARN  no build target for: /Users/ravila/Principles/TinyStore/product.scala
+2022.12.01 19:54:39 WARN  no build target for: /Users/ravila/Principles/TinyStore/video.scala
+2022.12.01 19:54:54 WARN  no build target for: /Users/ravila/Principles/TinyStore/music.scala
+2022.12.01 19:57:04 WARN  no build target for: /Users/ravila/Principles/TinyStore/music.scala
+2022.12.01 19:57:21 WARN  no build target for: /Users/ravila/Principles/TinyStore/music.scala
+2022.12.01 19:57:26 WARN  no build target for: /Users/ravila/Principles/TinyStore/music.scala
+2022.12.02 17:48:56 INFO  shutting down Metals
+2023.04.20 13:22:21 INFO  Started: Metals version 0.11.11 in workspace '/Users/ravila/Principles/TinyStore' for client Visual Studio Code 1.77.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/ravila/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.04.20 13:22:21 INFO  time: initialize in 0.56s
+Apr 20, 2023 1:22:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Apr 20, 2023 1:22:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2023.04.20 13:22:22 WARN  Build server is not auto-connectable.
+2023.04.20 13:22:22 WARN  no build tool detected in workspace '/Users/ravila/Principles/TinyStore'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.04.20 13:22:22 WARN  no build target for: /Users/ravila/Principles/TinyStore/music.scala
+2023.04.20 13:22:26 INFO  no build target found for /Users/ravila/Principles/TinyStore/music.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.04.20 13:22:28 INFO  time: code lens generation in 5.48s
+Apr 20, 2023 1:22:29 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.04.20 13:22:35 WARN  no build target for: /Users/ravila/Principles/TinyStore/product.scala
